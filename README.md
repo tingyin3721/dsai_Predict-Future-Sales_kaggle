@@ -34,6 +34,7 @@ Kaggle Competition: Predict Future Sales
  - Method 1 : Using xgboost with feature engineering. LeaderBoard score is 0.90992.
  - Method 2 : Using lgbRegressor, and the feature engineering is as same as method 1. LeaderBoard score = 0.90501.
  - Method 3 : Using xgboost with different data preprocessing, feature interactions. LeaderBoard score = 0.88338.
+ 
 **Method 3 has the best LeaderBoard score, 0.88338.**
  
 ## 6. Jupyter notebook link
@@ -52,7 +53,7 @@ Kaggle Competition: Predict Future Sales
  - ./method3_xgboostWithDifferentDataPreprocessing/boost_submission.csv : Method 3 submission. LeaderBoard score = 0.88338.
 
 ## 8. Reference
- **Thanks to the below authors**
+ **Thanks to the below authors:**
  - [Feature engineering, xgboost](https://www.kaggle.com/dlarionov/feature-engineering-xgboost)
  - [lgbRegressor](https://github.com/NoxMoon/predict-future-sales?fbclid=IwAR0pEGHZqywHNfwnGriuJy1y91YWgAQP0NPgtEhMh0bmighmWgK3RU2QQJs)
  - [Top10 solution on XGBoost](https://www.kaggle.com/obichkin/top10-solution-on-xgboost?fbclid=IwAR0okyD4pcGLaeLu9yiXaoVmbqC6luospMWKLFjfMd2FV1V6j-OYFrhOY0g)
