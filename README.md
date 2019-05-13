@@ -38,7 +38,7 @@ Kaggle Competition: Predict Future Sales
 **Method 3 has the best LeaderBoard score, 0.88338.**
  
 ## 6. Jupyter notebook link
- - Method 1 : https://nbviewer.jupyter.org/gist/tingyin3721/59ea3eb4553356f4081522b33d3ab72f
+ - Method 1 : https://nbviewer.jupyter.org/gist/tingyin3721/3d0f6217fd95b83f947bd546cf70fdf1
  - Method 2 : [feature engineering] https://nbviewer.jupyter.org/gist/tingyin3721/1ae300e165a614ca519cb0ab4f809e10
               [method algorithm] https://nbviewer.jupyter.org/gist/tingyin3721/5f4ca44684d1d146f9080823e72df7be
  - Method 3 : https://nbviewer.jupyter.org/gist/tingyin3721/658184e4ba74f4edb9a97fb8d74db4b6
