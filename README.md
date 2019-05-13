@@ -5,7 +5,7 @@ Kaggle Competition: Predict Future Sales
  - Kaggle Competition: Predict Future Sales  https://www.kaggle.com/c/competitive-data-science-predict-future-sales/overview
 
 ## 2. Using Method
- - **In this competition, I tried three method from now on.**
+ **In this competition, I tried three method from now on.**
  - Method 1 : Using xgboost with feature engineering. LeaderBoard score is 0.90992.
  - Method 2 : Using lgbRegressor, and the feature engineering is as same as method 1. LeaderBoard score = 0.90501.
  - Method 3 : Using xgboost with different data preprocessing, feature interactions. LeaderBoard score = 0.88338.
